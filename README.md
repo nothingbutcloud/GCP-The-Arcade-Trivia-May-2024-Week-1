@@ -4,7 +4,7 @@ Hey there! You're invited to game on with the Arcade Trivia for May Week 1! Play
 
 ## The Arcade Trivia May Week 1
 
-1. Configuring IAM Permissions with gcloud: Lab
+1. [Configuring IAM Permissions with gcloud: Lab](./Labs/GSP647%20-%20Configuring%20IAM%20Permissions%20with%20gcloud/README.md)
 2. Using the Natural Language API from Google Docs: Lab
 3. Loading Data into Cloud SQL: Lab
 4. The Arcade Trivia May 2024 Week 1: Lab
